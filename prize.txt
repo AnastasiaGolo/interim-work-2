@@ -1,0 +1,6 @@
+Toy{id=1, name='Teddy Bear', quantity=10, weight=50}
+Toy{id=4, name='Car', quantity=10, weight=40}
+Toy{id=1, name='Teddy Bear', quantity=10, weight=50}
+Toy{id=1, name='Teddy Bear', quantity=10, weight=50}
+Toy{id=4, name='Car', quantity=10, weight=40}
+Toy{id=4, name='Car', quantity=10, weight=40}
